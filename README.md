@@ -1,2 +1,2 @@
-# odin-calculator
-Practice javascript with a Calculator App for TOP
+# Calculator
+Practice javascript with a Calculator App for The Odin Project.
